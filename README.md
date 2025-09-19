@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I’m Laura 👋
 
-<!--
-**LauraGomezjurado/LauraGomezjurado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I study and build **reliable machine learning systems** — with interests spanning **learning theory & optimization**, **evaluation/calibration**, **conditional compute**, and **scientific ML**. I like problems where rigor meets engineering: clean objectives, tight measurements, and runnable artifacts.
 
-Here are some ideas to get you started:
+- 🎓 **Stanford BS/MS ’27, CS (AI track)** — coursework in ML theory, CV/DL, NLP, self-improving agents, linear & convex systems.
+- 🧪 Research: **Microsoft Research (AI Interaction & Learning)**, **Stanford Scaling Intelligence Lab**; prior applied ML in **drug discovery** and **edge/streaming systems**.
+- 🔬 Interests: controllable/model editing, calibration/uncertainty, safe RL, and adaptive inference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Research Highlights
+- **Evaluation for agentic systems** — policy families, ablations, and uncertainty-aware scoring with expert-in-the-loop review.
+- **Controllable model editing** — task-vector approaches to adjust behavior trade-offs (fairness/alignment vs. accuracy).
+- **Attribution drift & OOD** — studying shifts in saliency/attention as early signals for distribution change.
+
+**Toolbox:** PyTorch · Hugging Face · ONNX Runtime · scikit-learn · Python · (some) C/C++ · JS/TS 
+
+---
+
+## 🧱 What I Build
+Small, auditable systems that are easy to run and easy to judge:
+- **Eval harnesses** with clear metrics, seeds, and `reproduce.sh`.
+- **Tiny examples** (`examples/` notebooks) that run on CPU in ~1–2 minutes.
+- **Model/Eval Cards** summarizing data, assumptions, and limitations.
+
+---
+
+## 🤝 Collaborate
+**Email:** lpgomez [at] stanford.edu • **LinkedIn:** linkedin.com/in/laura-gomezjurado

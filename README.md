@@ -17,13 +17,5 @@ I study and build **reliable machine learning systems** — with interests spann
 
 ---
 
-## 🧱 What I Build
-Small, auditable systems that are easy to run and easy to judge:
-- **Eval harnesses** with clear metrics, seeds, and `reproduce.sh`.
-- **Tiny examples** (`examples/` notebooks) that run on CPU in ~1–2 minutes.
-- **Model/Eval Cards** summarizing data, assumptions, and limitations.
-
----
-
 ## 🤝 Collaborate
 **Email:** lpgomez [at] stanford.edu • **LinkedIn:** linkedin.com/in/laura-gomezjurado

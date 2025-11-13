@@ -2,7 +2,7 @@
 
 I study and build **reliable machine learning systems** — with interests spanning **learning theory & optimization**, **evaluation/calibration**, **conditional compute**, and **scientific ML**. I like problems where rigor meets engineering: clean objectives, tight measurements, and runnable artifacts.
 
-- 🎓 **Stanford BS/MS ’27, CS (AI track)** — coursework in ML theory, CV/DL, NLP, self-improving agents, linear & convex systems.
+- 🎓 **Stanford’27, CS (AI track)** — coursework in ML theory, CV/DL, NLP, self-improving agents, linear & convex systems.
 - 🧪 Research: **Microsoft Research (AI Interaction & Learning)**, **Stanford Scaling Intelligence Lab**; prior applied ML in **drug discovery** and **edge/streaming systems**.
 - 🔬 Interests: controllable/model editing, calibration/uncertainty, safe RL, and adaptive inference.
 
